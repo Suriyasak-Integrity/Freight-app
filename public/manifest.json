@@ -1,0 +1,10 @@
+
+{
+  "name": "Freight Rate App",
+  "short_name": "FreightApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "ระบบค้นหาราคาเฟรทจากหลายสายเรือ",
+  "icons": []
+}
